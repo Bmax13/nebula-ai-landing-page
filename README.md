@@ -12,7 +12,7 @@ A modern responsive landing page for an AI SaaS product.
 
 ## Live Demo
 
-[View Live Demo](...)
+[View Live Demo](index.html)
 
 ## Technologies
 

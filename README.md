@@ -3,16 +3,15 @@
 A modern responsive landing page for an AI SaaS product.
 
 ## Preview
-
-![Nebula AI Desktop Preview](assets/screenshots/desktop.png)
+<img src="assets/screenshots/desktop.png" alt="Nebula AI Desktop Preview" width="900">
 
 ## Mobile Preview
 
-![Nebula AI Mobile Preview](assets/screenshots/mobile.png)
+<img src="assets/screenshots/mobile.png" alt="Nebula AI Mobile Preview" width="280">
 
 ## Live Demo
 
-[View Live Demo](index.html)
+[View Live Demo](https://Bmax13.github.io/nebula-ai-landing-page/)
 
 ## Technologies
 

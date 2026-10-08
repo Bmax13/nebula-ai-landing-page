@@ -1,2 +1,5 @@
-# nebula-ai-landing-page
-Modern responsive AI SaaS landing page built with HTML, Tailwind CSS and JavaScript.
+# Nebula AI
+
+Modern SaaS / AI landing page
+
+Stack: HTML5, Tailwind CSS, Vanilla JavaScript.
